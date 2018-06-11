@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_tasti_menu</string>
+    <string name="error_msg">An error happens. </string>
+    <string name="choose_category">Category</string>
+    <string name="email_indicator">email</string>
+    <string name="password_indicator">password</string>
+    <string name="log_in_button">Log In</string>
+    <string name="log_in_error_msg">Email or password not correct</string>
+</resources>
